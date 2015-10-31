@@ -1,0 +1,5 @@
+C:\Users\Tsvetelin\Desktop\06.FilesAndStreamsHomework\02.LineNumbers\bin\Debug\02.LineNumbers.exe.config
+C:\Users\Tsvetelin\Desktop\06.FilesAndStreamsHomework\02.LineNumbers\bin\Debug\02.LineNumbers.exe
+C:\Users\Tsvetelin\Desktop\06.FilesAndStreamsHomework\02.LineNumbers\bin\Debug\02.LineNumbers.pdb
+C:\Users\Tsvetelin\Desktop\06.FilesAndStreamsHomework\02.LineNumbers\obj\Debug\02.LineNumbers.exe
+C:\Users\Tsvetelin\Desktop\06.FilesAndStreamsHomework\02.LineNumbers\obj\Debug\02.LineNumbers.pdb

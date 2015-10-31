@@ -1,0 +1,6 @@
+C:\Users\Tsvetelin\Desktop\06.FilesAndStreamsHomework\06.ZippingSlicedFile\bin\Debug\06.ZippingSlicedFile.exe.config
+C:\Users\Tsvetelin\Desktop\06.FilesAndStreamsHomework\06.ZippingSlicedFile\bin\Debug\06.ZippingSlicedFile.exe
+C:\Users\Tsvetelin\Desktop\06.FilesAndStreamsHomework\06.ZippingSlicedFile\bin\Debug\06.ZippingSlicedFile.pdb
+C:\Users\Tsvetelin\Desktop\06.FilesAndStreamsHomework\06.ZippingSlicedFile\obj\Debug\06.ZippingSlicedFile.csprojResolveAssemblyReference.cache
+C:\Users\Tsvetelin\Desktop\06.FilesAndStreamsHomework\06.ZippingSlicedFile\obj\Debug\06.ZippingSlicedFile.exe
+C:\Users\Tsvetelin\Desktop\06.FilesAndStreamsHomework\06.ZippingSlicedFile\obj\Debug\06.ZippingSlicedFile.pdb

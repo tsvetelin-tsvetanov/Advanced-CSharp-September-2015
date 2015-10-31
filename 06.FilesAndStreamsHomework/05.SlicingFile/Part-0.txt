@@ -1,0 +1,6 @@
+Homework: Streams and Files
+This document defines the homework assignments from the "Advanced C#" Course @ Software University. Please submit as homework a single zip / rar / 7z archive holding the solutions (source code) of all below described problems. The solutions should be written in C#.
+?	Odd Lines
+Write a program that reads a text file and prints on the console its odd lines. Line numbers starts from 0. Use StreamReader.
+?	Line Numbers
+Write a program that reads a text file and inserts line numbers in front of each of its lines. The result should b

@@ -1,0 +1,5 @@
+C:\Users\Tsvetelin\Desktop\06.FilesAndStreamsHomework\04.CopyBinaryFile\bin\Debug\04.CopyBinaryFile.exe.config
+C:\Users\Tsvetelin\Desktop\06.FilesAndStreamsHomework\04.CopyBinaryFile\bin\Debug\04.CopyBinaryFile.exe
+C:\Users\Tsvetelin\Desktop\06.FilesAndStreamsHomework\04.CopyBinaryFile\bin\Debug\04.CopyBinaryFile.pdb
+C:\Users\Tsvetelin\Desktop\06.FilesAndStreamsHomework\04.CopyBinaryFile\obj\Debug\04.CopyBinaryFile.exe
+C:\Users\Tsvetelin\Desktop\06.FilesAndStreamsHomework\04.CopyBinaryFile\obj\Debug\04.CopyBinaryFile.pdb

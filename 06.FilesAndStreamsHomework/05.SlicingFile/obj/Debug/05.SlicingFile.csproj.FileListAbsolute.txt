@@ -1,0 +1,6 @@
+C:\Users\Tsvetelin\Desktop\06.FilesAndStreamsHomework\05.SlicingFile\bin\Debug\05.SlicingFile.exe.config
+C:\Users\Tsvetelin\Desktop\06.FilesAndStreamsHomework\05.SlicingFile\bin\Debug\05.SlicingFile.exe
+C:\Users\Tsvetelin\Desktop\06.FilesAndStreamsHomework\05.SlicingFile\bin\Debug\05.SlicingFile.pdb
+C:\Users\Tsvetelin\Desktop\06.FilesAndStreamsHomework\05.SlicingFile\obj\Debug\05.SlicingFile.exe
+C:\Users\Tsvetelin\Desktop\06.FilesAndStreamsHomework\05.SlicingFile\obj\Debug\05.SlicingFile.pdb
+C:\Users\Tsvetelin\Desktop\06.FilesAndStreamsHomework\05.SlicingFile\obj\Debug\05.SlicingFile.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+ick, hide here…It is safer.	is - 3
+quick - 2
+fault - 1
+?	Copy Binary File
+Write a program that copies the contents of a binary file (e.g. image, video, etc.) to another using FileStream. You are not allowed to use the File class or similar helper classes.
+?	Slicing File
+Write a program that takes any file and slices it to n parts. Write the following methods:
+?	Slice(string sourceFile, string destinationDirectory, int parts) - slices the given source file into n parts and saves them in destinationDirectory.
+Source File	Destination Directory
+parts = 5 	 

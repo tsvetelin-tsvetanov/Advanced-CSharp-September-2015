@@ -1,0 +1,24 @@
+Homework: Streams and Files
+This document defines the homework assignments from the "Advanced C#" Course @ Software University. Please submit as homework a single zip / rar / 7z archive holding the solutions (source code) of all below described problems. The solutions should be written in C#.
+?	Odd Lines
+Write a program that reads a text file and prints on the console its odd lines. Line numbers starts from 0. Use StreamReader.
+?	Line Numbers
+Write a program that reads a text file and inserts line numbers in front of each of its lines. The result should be written to another text file. Use StreamReader in combination with StreamWriter.
+?	Word Count
+Write a program that reads a list of words from the file words.txt and finds how many times each of the words is contained in another file text.txt. Matching should be case-insensitive.
+Write the results in file results.txt. Sort the words by frequency in descending order. Use StreamReader in combination with StreamWriter.
+words.txt	text.txt	result.txt
+quick
+is
+fault	-I was quick to judge him, but it wasn't his fault.
+-Is this some kind of joke?! Is it?
+-Quick, hide here…It is safer.	is - 3
+quick - 2
+fault - 1
+?	Copy Binary File
+Write a program that copies the contents of a binary file (e.g. image, video, etc.) to another using FileStream. You are not allowed to use the File class or similar helper classes.
+?	Slicing File
+Write a program that takes any file and slices it to n parts. Write the following methods:
+?	Slice(string sourceFile, string destinationDirectory, int parts) - slices the given source file into n parts and saves them in destinationDirectory.
+Source File	Destination Directory
+parts = 5 	 
