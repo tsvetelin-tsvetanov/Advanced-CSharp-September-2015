@@ -1,0 +1,6 @@
+C:\Users\Tsvetelin\Desktop\AdvancedCSharp Exam 11 October 2015\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Tsvetelin\Desktop\AdvancedCSharp Exam 11 October 2015\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Tsvetelin\Desktop\AdvancedCSharp Exam 11 October 2015\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Tsvetelin\Desktop\AdvancedCSharp Exam 11 October 2015\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Tsvetelin\Desktop\AdvancedCSharp Exam 11 October 2015\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Tsvetelin\Desktop\AdvancedCSharp Exam 11 October 2015\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
