@@ -1,0 +1,5 @@
+C:\Users\Tsvetelin\Desktop\04.StringsAndTextProcessingHomework\03.CountSubstringOccurences\bin\Debug\03.CountSubstringOccurences.exe.config
+C:\Users\Tsvetelin\Desktop\04.StringsAndTextProcessingHomework\03.CountSubstringOccurences\bin\Debug\03.CountSubstringOccurences.exe
+C:\Users\Tsvetelin\Desktop\04.StringsAndTextProcessingHomework\03.CountSubstringOccurences\bin\Debug\03.CountSubstringOccurences.pdb
+C:\Users\Tsvetelin\Desktop\04.StringsAndTextProcessingHomework\03.CountSubstringOccurences\obj\Debug\03.CountSubstringOccurences.exe
+C:\Users\Tsvetelin\Desktop\04.StringsAndTextProcessingHomework\03.CountSubstringOccurences\obj\Debug\03.CountSubstringOccurences.pdb

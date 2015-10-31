@@ -1,0 +1,6 @@
+C:\Users\Tsvetelin\Desktop\04.StringsAndTextProcessingHomework\04.BannedWords\bin\Debug\04.BannedWords.exe.config
+C:\Users\Tsvetelin\Desktop\04.StringsAndTextProcessingHomework\04.BannedWords\bin\Debug\04.BannedWords.exe
+C:\Users\Tsvetelin\Desktop\04.StringsAndTextProcessingHomework\04.BannedWords\bin\Debug\04.BannedWords.pdb
+C:\Users\Tsvetelin\Desktop\04.StringsAndTextProcessingHomework\04.BannedWords\obj\Debug\04.BannedWords.csprojResolveAssemblyReference.cache
+C:\Users\Tsvetelin\Desktop\04.StringsAndTextProcessingHomework\04.BannedWords\obj\Debug\04.BannedWords.exe
+C:\Users\Tsvetelin\Desktop\04.StringsAndTextProcessingHomework\04.BannedWords\obj\Debug\04.BannedWords.pdb

@@ -1,0 +1,5 @@
+C:\Users\Tsvetelin\Desktop\04.StringsAndTextProcessingHomework\05.UnicodeCharacters\bin\Debug\05.UnicodeCharacters.exe.config
+C:\Users\Tsvetelin\Desktop\04.StringsAndTextProcessingHomework\05.UnicodeCharacters\bin\Debug\05.UnicodeCharacters.exe
+C:\Users\Tsvetelin\Desktop\04.StringsAndTextProcessingHomework\05.UnicodeCharacters\bin\Debug\05.UnicodeCharacters.pdb
+C:\Users\Tsvetelin\Desktop\04.StringsAndTextProcessingHomework\05.UnicodeCharacters\obj\Debug\05.UnicodeCharacters.exe
+C:\Users\Tsvetelin\Desktop\04.StringsAndTextProcessingHomework\05.UnicodeCharacters\obj\Debug\05.UnicodeCharacters.pdb

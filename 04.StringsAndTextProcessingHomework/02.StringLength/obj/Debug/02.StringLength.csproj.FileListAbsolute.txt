@@ -1,0 +1,5 @@
+C:\Users\Tsvetelin\Desktop\04.StringsAndTextProcessingHomework\02.StringLength\bin\Debug\02.StringLength.exe.config
+C:\Users\Tsvetelin\Desktop\04.StringsAndTextProcessingHomework\02.StringLength\bin\Debug\02.StringLength.exe
+C:\Users\Tsvetelin\Desktop\04.StringsAndTextProcessingHomework\02.StringLength\bin\Debug\02.StringLength.pdb
+C:\Users\Tsvetelin\Desktop\04.StringsAndTextProcessingHomework\02.StringLength\obj\Debug\02.StringLength.exe
+C:\Users\Tsvetelin\Desktop\04.StringsAndTextProcessingHomework\02.StringLength\obj\Debug\02.StringLength.pdb

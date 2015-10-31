@@ -1,0 +1,5 @@
+C:\Users\Tsvetelin\Desktop\04.StringsAndTextProcessingHomework\06.Palindromes\bin\Debug\06.Palindromes.exe.config
+C:\Users\Tsvetelin\Desktop\04.StringsAndTextProcessingHomework\06.Palindromes\bin\Debug\06.Palindromes.exe
+C:\Users\Tsvetelin\Desktop\04.StringsAndTextProcessingHomework\06.Palindromes\bin\Debug\06.Palindromes.pdb
+C:\Users\Tsvetelin\Desktop\04.StringsAndTextProcessingHomework\06.Palindromes\obj\Debug\06.Palindromes.exe
+C:\Users\Tsvetelin\Desktop\04.StringsAndTextProcessingHomework\06.Palindromes\obj\Debug\06.Palindromes.pdb
