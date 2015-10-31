@@ -1,0 +1,5 @@
+C:\Users\Tsvetelin\Documents\Visual Studio 2015\Projects\02.MultidimensionalArraysHomework\03.MatrixSwap\bin\Debug\03.MatrixSwap.exe.config
+C:\Users\Tsvetelin\Documents\Visual Studio 2015\Projects\02.MultidimensionalArraysHomework\03.MatrixSwap\bin\Debug\03.MatrixSwap.exe
+C:\Users\Tsvetelin\Documents\Visual Studio 2015\Projects\02.MultidimensionalArraysHomework\03.MatrixSwap\bin\Debug\03.MatrixSwap.pdb
+C:\Users\Tsvetelin\Documents\Visual Studio 2015\Projects\02.MultidimensionalArraysHomework\03.MatrixSwap\obj\Debug\03.MatrixSwap.exe
+C:\Users\Tsvetelin\Documents\Visual Studio 2015\Projects\02.MultidimensionalArraysHomework\03.MatrixSwap\obj\Debug\03.MatrixSwap.pdb

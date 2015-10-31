@@ -1,0 +1,5 @@
+C:\Users\Tsvetelin\Documents\Visual Studio 2015\Projects\02.MultidimensionalArraysHomework\02.MaximalSum\bin\Debug\02.MaximalSum.exe.config
+C:\Users\Tsvetelin\Documents\Visual Studio 2015\Projects\02.MultidimensionalArraysHomework\02.MaximalSum\bin\Debug\02.MaximalSum.exe
+C:\Users\Tsvetelin\Documents\Visual Studio 2015\Projects\02.MultidimensionalArraysHomework\02.MaximalSum\bin\Debug\02.MaximalSum.pdb
+C:\Users\Tsvetelin\Documents\Visual Studio 2015\Projects\02.MultidimensionalArraysHomework\02.MaximalSum\obj\Debug\02.MaximalSum.exe
+C:\Users\Tsvetelin\Documents\Visual Studio 2015\Projects\02.MultidimensionalArraysHomework\02.MaximalSum\obj\Debug\02.MaximalSum.pdb

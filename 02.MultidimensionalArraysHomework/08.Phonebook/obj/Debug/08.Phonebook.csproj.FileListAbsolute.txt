@@ -1,0 +1,5 @@
+C:\Users\Tsvetelin\Documents\Visual Studio 2015\Projects\02.MultidimensionalArraysHomework\08.Phonebook\bin\Debug\08.Phonebook.exe.config
+C:\Users\Tsvetelin\Documents\Visual Studio 2015\Projects\02.MultidimensionalArraysHomework\08.Phonebook\bin\Debug\08.Phonebook.exe
+C:\Users\Tsvetelin\Documents\Visual Studio 2015\Projects\02.MultidimensionalArraysHomework\08.Phonebook\bin\Debug\08.Phonebook.pdb
+C:\Users\Tsvetelin\Documents\Visual Studio 2015\Projects\02.MultidimensionalArraysHomework\08.Phonebook\obj\Debug\08.Phonebook.exe
+C:\Users\Tsvetelin\Documents\Visual Studio 2015\Projects\02.MultidimensionalArraysHomework\08.Phonebook\obj\Debug\08.Phonebook.pdb
