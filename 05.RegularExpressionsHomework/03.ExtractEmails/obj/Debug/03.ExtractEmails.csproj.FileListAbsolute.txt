@@ -1,0 +1,5 @@
+C:\Users\Tsvetelin\Desktop\05.RegularExpressionsHomework\03.ExtractEmails\bin\Debug\03.ExtractEmails.exe.config
+C:\Users\Tsvetelin\Desktop\05.RegularExpressionsHomework\03.ExtractEmails\bin\Debug\03.ExtractEmails.exe
+C:\Users\Tsvetelin\Desktop\05.RegularExpressionsHomework\03.ExtractEmails\bin\Debug\03.ExtractEmails.pdb
+C:\Users\Tsvetelin\Desktop\05.RegularExpressionsHomework\03.ExtractEmails\obj\Debug\03.ExtractEmails.exe
+C:\Users\Tsvetelin\Desktop\05.RegularExpressionsHomework\03.ExtractEmails\obj\Debug\03.ExtractEmails.pdb

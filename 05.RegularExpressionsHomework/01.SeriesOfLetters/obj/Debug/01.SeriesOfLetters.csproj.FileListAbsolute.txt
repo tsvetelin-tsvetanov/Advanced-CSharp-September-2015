@@ -1,0 +1,6 @@
+C:\Users\Tsvetelin\Desktop\05.RegularExpressionsHomework\01.SeriesOfLetters\bin\Debug\01.SeriesOfLetters.exe.config
+C:\Users\Tsvetelin\Desktop\05.RegularExpressionsHomework\01.SeriesOfLetters\bin\Debug\01.SeriesOfLetters.exe
+C:\Users\Tsvetelin\Desktop\05.RegularExpressionsHomework\01.SeriesOfLetters\bin\Debug\01.SeriesOfLetters.pdb
+C:\Users\Tsvetelin\Desktop\05.RegularExpressionsHomework\01.SeriesOfLetters\obj\Debug\01.SeriesOfLetters.csprojResolveAssemblyReference.cache
+C:\Users\Tsvetelin\Desktop\05.RegularExpressionsHomework\01.SeriesOfLetters\obj\Debug\01.SeriesOfLetters.exe
+C:\Users\Tsvetelin\Desktop\05.RegularExpressionsHomework\01.SeriesOfLetters\obj\Debug\01.SeriesOfLetters.pdb
