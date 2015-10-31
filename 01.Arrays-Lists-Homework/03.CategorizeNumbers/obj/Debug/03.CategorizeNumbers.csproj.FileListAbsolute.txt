@@ -1,0 +1,5 @@
+c:\users\tsvetelin\documents\visual studio 2015\Projects\01.Arrays-Lists-Homework\03.CategorizeNumbers\bin\Debug\03.CategorizeNumbers.exe.config
+c:\users\tsvetelin\documents\visual studio 2015\Projects\01.Arrays-Lists-Homework\03.CategorizeNumbers\bin\Debug\03.CategorizeNumbers.exe
+c:\users\tsvetelin\documents\visual studio 2015\Projects\01.Arrays-Lists-Homework\03.CategorizeNumbers\bin\Debug\03.CategorizeNumbers.pdb
+c:\users\tsvetelin\documents\visual studio 2015\Projects\01.Arrays-Lists-Homework\03.CategorizeNumbers\obj\Debug\03.CategorizeNumbers.exe
+c:\users\tsvetelin\documents\visual studio 2015\Projects\01.Arrays-Lists-Homework\03.CategorizeNumbers\obj\Debug\03.CategorizeNumbers.pdb

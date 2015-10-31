@@ -1,0 +1,5 @@
+c:\users\tsvetelin\documents\visual studio 2015\Projects\01.Arrays-Lists-Homework\02.SelectionSort\bin\Debug\02.SelectionSort.exe.config
+c:\users\tsvetelin\documents\visual studio 2015\Projects\01.Arrays-Lists-Homework\02.SelectionSort\bin\Debug\02.SelectionSort.exe
+c:\users\tsvetelin\documents\visual studio 2015\Projects\01.Arrays-Lists-Homework\02.SelectionSort\bin\Debug\02.SelectionSort.pdb
+c:\users\tsvetelin\documents\visual studio 2015\Projects\01.Arrays-Lists-Homework\02.SelectionSort\obj\Debug\02.SelectionSort.exe
+c:\users\tsvetelin\documents\visual studio 2015\Projects\01.Arrays-Lists-Homework\02.SelectionSort\obj\Debug\02.SelectionSort.pdb

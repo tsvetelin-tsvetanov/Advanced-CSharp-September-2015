@@ -1,0 +1,6 @@
+c:\users\tsvetelin\documents\visual studio 2015\Projects\01.Arrays-Lists-Homework\01.Arrays-Lists-Homework\bin\Debug\01.Arrays-Lists-Homework.exe.config
+c:\users\tsvetelin\documents\visual studio 2015\Projects\01.Arrays-Lists-Homework\01.Arrays-Lists-Homework\bin\Debug\01.Arrays-Lists-Homework.exe
+c:\users\tsvetelin\documents\visual studio 2015\Projects\01.Arrays-Lists-Homework\01.Arrays-Lists-Homework\bin\Debug\01.Arrays-Lists-Homework.pdb
+c:\users\tsvetelin\documents\visual studio 2015\Projects\01.Arrays-Lists-Homework\01.Arrays-Lists-Homework\obj\Debug\01.SortArray.csprojResolveAssemblyReference.cache
+c:\users\tsvetelin\documents\visual studio 2015\Projects\01.Arrays-Lists-Homework\01.Arrays-Lists-Homework\obj\Debug\01.Arrays-Lists-Homework.exe
+c:\users\tsvetelin\documents\visual studio 2015\Projects\01.Arrays-Lists-Homework\01.Arrays-Lists-Homework\obj\Debug\01.Arrays-Lists-Homework.pdb
