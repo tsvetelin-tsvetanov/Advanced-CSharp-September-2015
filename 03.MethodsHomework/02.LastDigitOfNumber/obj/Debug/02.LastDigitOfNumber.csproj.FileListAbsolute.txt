@@ -1,0 +1,5 @@
+C:\Users\Tsvetelin\Desktop\03.BiggerNumber\02.LastDigitOfNumber\bin\Debug\02.LastDigitOfNumber.exe.config
+C:\Users\Tsvetelin\Desktop\03.BiggerNumber\02.LastDigitOfNumber\bin\Debug\02.LastDigitOfNumber.exe
+C:\Users\Tsvetelin\Desktop\03.BiggerNumber\02.LastDigitOfNumber\bin\Debug\02.LastDigitOfNumber.pdb
+C:\Users\Tsvetelin\Desktop\03.BiggerNumber\02.LastDigitOfNumber\obj\Debug\02.LastDigitOfNumber.exe
+C:\Users\Tsvetelin\Desktop\03.BiggerNumber\02.LastDigitOfNumber\obj\Debug\02.LastDigitOfNumber.pdb

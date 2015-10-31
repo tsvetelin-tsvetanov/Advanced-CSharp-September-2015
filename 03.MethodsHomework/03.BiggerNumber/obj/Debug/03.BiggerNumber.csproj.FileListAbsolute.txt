@@ -1,0 +1,6 @@
+C:\Users\Tsvetelin\Desktop\03.BiggerNumber\03.BiggerNumber\bin\Debug\03.BiggerNumber.exe.config
+C:\Users\Tsvetelin\Desktop\03.BiggerNumber\03.BiggerNumber\bin\Debug\03.BiggerNumber.exe
+C:\Users\Tsvetelin\Desktop\03.BiggerNumber\03.BiggerNumber\bin\Debug\03.BiggerNumber.pdb
+C:\Users\Tsvetelin\Desktop\03.BiggerNumber\03.BiggerNumber\obj\Debug\03.BiggerNumber.csprojResolveAssemblyReference.cache
+C:\Users\Tsvetelin\Desktop\03.BiggerNumber\03.BiggerNumber\obj\Debug\03.BiggerNumber.exe
+C:\Users\Tsvetelin\Desktop\03.BiggerNumber\03.BiggerNumber\obj\Debug\03.BiggerNumber.pdb

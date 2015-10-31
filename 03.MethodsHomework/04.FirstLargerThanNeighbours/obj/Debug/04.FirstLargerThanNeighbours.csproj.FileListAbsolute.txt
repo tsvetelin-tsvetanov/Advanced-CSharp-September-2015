@@ -1,0 +1,5 @@
+C:\Users\Tsvetelin\Desktop\03.BiggerNumber\04.FirstLargerThanNeighbours\bin\Debug\04.FirstLargerThanNeighbours.exe.config
+C:\Users\Tsvetelin\Desktop\03.BiggerNumber\04.FirstLargerThanNeighbours\bin\Debug\04.FirstLargerThanNeighbours.exe
+C:\Users\Tsvetelin\Desktop\03.BiggerNumber\04.FirstLargerThanNeighbours\bin\Debug\04.FirstLargerThanNeighbours.pdb
+C:\Users\Tsvetelin\Desktop\03.BiggerNumber\04.FirstLargerThanNeighbours\obj\Debug\04.FirstLargerThanNeighbours.exe
+C:\Users\Tsvetelin\Desktop\03.BiggerNumber\04.FirstLargerThanNeighbours\obj\Debug\04.FirstLargerThanNeighbours.pdb

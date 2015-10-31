@@ -1,0 +1,5 @@
+C:\Users\Tsvetelin\Desktop\03.BiggerNumber\03.LargerThanNeighbours\bin\Debug\03.LargerThanNeighbours.exe.config
+C:\Users\Tsvetelin\Desktop\03.BiggerNumber\03.LargerThanNeighbours\bin\Debug\03.LargerThanNeighbours.exe
+C:\Users\Tsvetelin\Desktop\03.BiggerNumber\03.LargerThanNeighbours\bin\Debug\03.LargerThanNeighbours.pdb
+C:\Users\Tsvetelin\Desktop\03.BiggerNumber\03.LargerThanNeighbours\obj\Debug\03.LargerThanNeighbours.exe
+C:\Users\Tsvetelin\Desktop\03.BiggerNumber\03.LargerThanNeighbours\obj\Debug\03.LargerThanNeighbours.pdb
